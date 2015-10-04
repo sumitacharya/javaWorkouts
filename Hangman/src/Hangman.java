@@ -80,7 +80,7 @@ public class Hangman {
 		 * Returns the random secret word from among the list of words.
 		 */
 		Random rand = new Random();
-		String [] wordList = {"secret","sports","private","humanity","caterpillar","matchstick","diversity","doctor","travel","survive","hungry","beautiful","hangman","company","light","concert","codeword","kitched"};
+		String [] wordList = {"secret","sports","private","humanity","caterpillar","matchstick","diversity","doctor","travel","survive","hungry","beautiful","hangman","company","light","concert","codeword","kitchen"};
 		int size = wordList.length;
 		return wordList[rand.nextInt(size)];
 		
