@@ -1,13 +1,12 @@
 import java.util.Scanner;
 
-public class multiply2Factorials extends Factorial {
+public class Multiply2Factorials extends Factorial {
 
-	/** Uses Factorial project to find the factors of given numbers
+	/** 
+	 * Uses Factorial project to find the factors of given numbers
 	 * Calculates product of two factorials.
-	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter 2 numbers");
 		System.out.print("1st number : ");
