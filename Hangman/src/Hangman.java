@@ -56,6 +56,7 @@ public class Hangman {
 	
 	/*
 	 * Main code goes here
+<<<<<<< HEAD
 	 * variables defined : 
 	 * turns - defines number of turns to guess 
 	 * dash - defines a blank spot where letter has to be inserted
@@ -64,6 +65,8 @@ public class Hangman {
 	 * guesses - stores all the guessChar (guessed characters)
 	 * correctlyGuessed - boolean value to check if the secret word is correctly guessed
 	 *  
+=======
+>>>>>>> b677cae44a81c4bb5f4c99f1f60635577b46119a
 	 */
 	public static void main(String[] args) {
 		welcome();
