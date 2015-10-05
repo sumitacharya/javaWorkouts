@@ -5,3 +5,4 @@
 * Simple Interest - Calculated Simple Interest for given principal amount, time in years and rate per annum.
 * Car - Prints information about car. (Some workouts with classes)
 * Palidrome - Checks if the word is palindrome or not.
+* GuessTheNumber - Game : Guess the number between the given range of values within specified number of guesses.
