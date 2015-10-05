@@ -4,3 +4,4 @@
 * MultiplyFactorials - Project that extends the class of Factorial program to find product of two calculated factorials.
 * Simple Interest - Calculated Simple Interest for given principal amount, time in years and rate per annum.
 * Car - Prints information about car. (Some workouts with classes)
+* Palidrome - Checks if the word is palindrome or not.
