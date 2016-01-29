@@ -4,7 +4,7 @@
 public class Car {
 	
 	/**
-	 * Car brand name -testing for git undo
+	 * Car brand name -testing git undo
 	 */
 	String name;
 	
